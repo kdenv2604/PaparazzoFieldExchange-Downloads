@@ -21,6 +21,8 @@ https://github.com/kdenv2604/PaparazzoFieldExchange-Downloads/releases/latest
 - Windows: `PaparazzoFieldExchange-Windows-Setup-vX.Y.Z.exe`
 - Android: `PaparazzoFieldExchange-Android-vX.Y.Z.apk`
 - Linux desktop: `PaparazzoFieldExchange-Linux-x64-vX.Y.Z.tar.gz` or ARM64
-- Portable builds: use the platform-specific portable archive
+- Legacy Windows: `PaparazzoFieldExchange-Portable-Windows-*.zip`
+- Legacy Linux: `PaparazzoFieldExchange-Portable-Linux-*.tar.gz`
+- FreeBSD: `PaparazzoFieldExchange-Portable-FreeBSD-*.tar.gz`
 
 Verify downloads with `SHA256SUMS.txt` when possible.
