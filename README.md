@@ -23,16 +23,15 @@ https://github.com/kdenv2604/PaparazzoFieldExchange-Downloads/releases/latest
 
 ## What to download
 
-- Windows: `PaparazzoFieldExchange-Windows-x64-vX.Y.Z.msi`, `PaparazzoFieldExchange-Windows-arm64-vX.Y.Z.msi` or `PaparazzoFieldExchange-Windows-x86-vX.Y.Z.msi`
+- Windows: `PaparazzoFieldExchange-Windows-Setup-vX.Y.Z.exe`
 - Android: `PaparazzoFieldExchange-Android-vX.Y.Z.apk`
 - Linux desktop: `PaparazzoFieldExchange-Linux-x64-vX.Y.Z.tar.gz` or ARM64
 - Legacy Windows: `PaparazzoFieldExchange-Portable-Windows-*.zip`
 - Legacy Linux: `PaparazzoFieldExchange-Portable-Linux-*.tar.gz`
 - FreeBSD: `PaparazzoFieldExchange-Portable-FreeBSD-*.tar.gz`
 
-The universal Windows setup EXE may be produced by the main project build, but it
-is not uploaded to every public prerelease because it is much larger than the
-per-architecture MSI installers.
+MSI files may exist in local/internal build folders, but public releases normally
+publish the universal Windows setup EXE instead.
 
 Verify downloads with `SHA256SUMS.txt` when possible.
 Read the included `EULA_*.md`, `THIRD_PARTY_NOTICES_*.md` and
